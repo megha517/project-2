@@ -1,0 +1,5 @@
+{
+  "name": "SpamShield AI Classifier",
+  "description": "An advanced AI-powered email classification tool that uses Gemini to detect spam, phishing, and legitimate messages with detailed reasoning and feature analysis.",
+  "requestFramePermissions": []
+}
